@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Light background for contrast */
+    }
+canvas {
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.container{
+    margin: 0;
+
+}
+
+.alignment{
+    text-align: center;
+
+}
+
+
+.noto-sans-jp{
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
